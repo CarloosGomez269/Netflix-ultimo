@@ -1,0 +1,132 @@
+h3 {
+      text-align: right;
+      color: rgb(255, 255, 255);
+        }
+        h1 {
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        h4 {
+            text-align: right;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        h2 {
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        p {
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+        h5{
+            text-align: center;
+            color: rgb(255, 255, 255);
+            font-family: Roboto Condensed;
+        }
+
+        body {
+          background-color: black;
+        }
+        li {
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            
+        }
+        .netflix{
+            text-align: left;
+            color: rgb(255, 0, 0);
+            font-family: Roboto Condensed;
+        }
+        .comenzar {
+            background-color: rgb(255, 0, 0);
+            text-align: center;
+
+        }
+        .tende {
+            text-align: left;
+        }
+        
+        
+        button {
+            background-color: rgb(255, 0, 0);
+            border-radius: 2pc;
+        }
+        .español {
+            border-style: solid;
+            border-width: 1px;
+            width: fit-content;
+            padding: auto;
+        }
+        .gmail {
+            border-style: solid;
+            border-width: 1px;
+            width: fit-content;
+        }
+        .tarjeta {
+  border: 2px solid blue; /* Grosor, estilo y color del borde */
+  padding: 15px; /* Espacio entre el texto y el borde */
+  margin: 10px;  /* Espacio alrededor del contenedor */
+  width: 300px; /* Ancho del contenedor */
+  border-color: rgb(4, 4, 158);
+  background-color: rgb(133, 17, 172);
+}
+ .tv {
+  border: 2px solid blue; /* Grosor, estilo y color del borde */
+  padding: 15px; /* Espacio entre el texto y el borde */
+  margin: 10px;  /* Espacio alrededor del contenedor */
+  width: 300px; /* Ancho del contenedor */
+  border-color: rgb(4, 4, 158);
+  background-color: rgb(133, 17, 172);
+}
+ .disfruta {
+  border: 2px solid blue; /* Grosor, estilo y color del borde */
+  padding: 15px; /* Espacio entre el texto y el borde */
+  margin: 10px;  /* Espacio alrededor del contenedor */
+  width: 300px; /* Ancho del contenedor */
+  border-color: rgb(4, 4, 158);
+  background-color: rgb(133, 17, 172);
+}
+ .niños {
+  border: 2px solid blue; /* Grosor, estilo y color del borde */
+  padding: 15px; /* Espacio entre el texto y el borde */
+  margin: 10px;  /* Espacio alrededor del contenedor */
+  width: 300px; /* Ancho del contenedor */
+  border-color: rgb(4, 4, 158);
+  background-color: rgb(133, 17, 172);
+}
+
+.todo {
+
+    display: flex;
+    justify-content: center;
+}
+
+
+.peli ol {
+
+    display: flex;
+  justify-content: center;  
+  padding: 5px;
+
+}
+
+
+.fondo {
+      background-image: url('img/fondo.jpg');
+        background-size:contain;
+
+}
+
+.foto {
+    width: 300px;
+    height: 355px;
+}
+
+button {
+    width: 70px;
+  align-items: end;
+}
